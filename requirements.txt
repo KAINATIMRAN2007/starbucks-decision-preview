@@ -3,6 +3,3 @@ streamlit
 pandas
 scikit-learn
 sklearn
-streamlit
-pandas
-scikit-learn
